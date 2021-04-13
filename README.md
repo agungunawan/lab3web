@@ -11,4 +11,8 @@
 ![list2](https://user-images.githubusercontent.com/56526167/114505485-a722d680-9c5a-11eb-9954-1c807034265a.png)
 # Output
 ![List3](https://user-images.githubusercontent.com/56526167/114505595-d3d6ee00-9c5a-11eb-8cf2-4453298dc823.png)
-
+# cara membuat tabel
+# Input
+![tabel1](https://user-images.githubusercontent.com/56526167/114505967-59f33480-9c5b-11eb-9cde-72b0be13d216.png)
+# output
+![tabel2](https://user-images.githubusercontent.com/56526167/114506003-67a8ba00-9c5b-11eb-9950-94aa6887b8c7.png)
